@@ -1,3 +1,6 @@
+//frequency counter pattern - charCount.js 
+//expects str (string)
+
 function charCount(str){
     var obj = {}
     for (var char of str) {

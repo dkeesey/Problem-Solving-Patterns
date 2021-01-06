@@ -1,4 +1,4 @@
-//test whether two numbers have the same single digit numbers and frequency of single digit numbers
+//test whether num1 and num2 have the same single digit numbers and frequency of single digit numbers
 
 function sameFrequency (num1, num2){
   //convert number inputs to strings
