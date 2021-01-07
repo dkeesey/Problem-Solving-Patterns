@@ -1,12 +1,11 @@
-function power(number , power){
-    let accumulator = number;
-    if (power === 0) return 1;
-    if (power === 1) return accumulator;
+function power(number , exponent){
+    if (exponent === 1) return number;
+    if (exponent === 0) return 1;
 
-    return number * power( number, power -1)
+    return number * power( number, exponent -1)
     
 }
 
-power(2,0) // 1
-// power(2,2) // 4
-// power(2,4) // 16
+power(2,0); // 1
+power(2,2) // 4
+power(2,4) // 16
