@@ -1,0 +1,22 @@
+{
+  "name": "problem-solving-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FrequencyCounterPattern-charCount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkeesey/Problem-Solving-Patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkeesey/Problem-Solving-Patterns/issues"
+  },
+  "homepage": "https://github.com/dkeesey/Problem-Solving-Patterns#readme",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
