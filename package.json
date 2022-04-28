@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dkeesey/Problem-Solving-Patterns#readme",
   "devDependencies": {
+    "jest": "^28.0.2",
     "prettier": "2.6.2"
   }
 }
