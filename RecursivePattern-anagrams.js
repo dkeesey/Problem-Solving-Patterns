@@ -22,5 +22,5 @@ let genAnagrams = ( word, anagram = '') => {
   return anagram;
 };
 
-// genAnagrams('ABC');
-// console.log(anagrams);
+genAnagrams('ABC');
+console.log(anagrams);

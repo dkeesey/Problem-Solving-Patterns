@@ -5,3 +5,8 @@ function factorial(num){
     }
     return total;
 }
+
+factorial(5);
+factorial(10);
+factorial(-1);
+factorial(-3);

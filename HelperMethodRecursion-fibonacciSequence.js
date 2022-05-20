@@ -16,3 +16,5 @@ function fibonacciSequece(num) {
 
     return [fibonacciSeq[num], fibonacciSeq];
 }
+
+fibonacciSequece(10);

@@ -11,3 +11,5 @@ function charCount(str){
     }
     return obj
 } 
+charCount('hello');
+charCount('hello world');

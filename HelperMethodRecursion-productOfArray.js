@@ -1,6 +1,3 @@
-// productOfArray([1,2,3]) // 6
-// productOfArray([1,2,3,10]) // 60
-
 function productOfArray(arr){
     let product = 0;    //initialize accumulator
     
@@ -16,3 +13,6 @@ function productOfArray(arr){
     
     return product; 
 }
+
+productOfArray([1,2,3]) // 6
+productOfArray([1,2,3,10]) // 60

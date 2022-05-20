@@ -6,7 +6,7 @@ function sameFrequency (num1, num2){
   const num2Str = num2.toString();
 
   //test that the two strings have the same number of characters
-  if(num1Str.length !== num2str.length){
+  if(num1Str.length !== num2Str.length){
     return [false, num1Str, num2Str]; 
 
   }
@@ -39,3 +39,7 @@ function sameFrequency (num1, num2){
   }
   return [true,str1Arr, charFreq1, str2Arr, charFreq2];
 }
+
+
+sameFrequency(182, 281);
+sameFrequency(34, 14);
